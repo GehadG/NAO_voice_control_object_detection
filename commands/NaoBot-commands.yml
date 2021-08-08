@@ -1,0 +1,23 @@
+context:
+  expressions:
+    locate:
+      - "[find, scan, look, search, detect, locate] (for) (a) (an) (the)
+        $color:col (object)"
+    goto:
+      - "[go, navigate] (to) (a) (an) (the) $color:col (object)"
+    move:
+      - move $direction:dir
+    turn:
+      - turn $direction:dir
+  slots:
+    color:
+      - blue
+      - red
+      - green
+      - orange
+      - purple
+    direction:
+      - forward
+      - backward
+      - left
+      - right

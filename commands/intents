@@ -1,0 +1,4 @@
+[find, scan, look, search, detect, locate] (for) (a) (an) (the) $color:col (object)
+[go, navigate] (to) (a) (an) (the) $color:col (object)
+move $direction:dir
+turn $direction:dir
