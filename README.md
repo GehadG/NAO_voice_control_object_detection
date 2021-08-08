@@ -30,9 +30,12 @@ move $direction:dir
 turn $direction:dir
 ```
 For example :
-Hey neo, go to the blue object
-Hey neo , move forward
-Hey neo , turn left
+
+1.Hey neo, go to the blue object
+
+2.Hey neo , move forward
+
+3.Hey neo , turn left
 
 ## How to run
 1. open nao_voice_control.wbt in Webots
