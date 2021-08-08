@@ -1,7 +1,8 @@
+
 # NAO_voice_control_object_detection
 project for Robocup module at TU Berlin to control NAO robot using voice commands
 
-
+![nao (1)](https://user-images.githubusercontent.com/13661852/128642713-66be2ab0-26ca-439c-9d5d-c92f82fec55e.png)
 # Click on the image below to watch the demo video
 [![Watch the video](https://img.youtube.com/vi/hWowrjhZa9M/maxresdefault.jpg)](https://youtu.be/hWowrjhZa9M)
 ## Problems faced :
